@@ -22,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("");
+    background-image: url("assets/img/background.png");
     background-repeat: no-repeat;
     background-size: contain;
     /* Se der algum problema na imagem de background, verificar essa linha - Trocar "cover" por "contain" */
