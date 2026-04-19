@@ -24,7 +24,7 @@ body {
 .principal {
     background-image: url("assets/img/background.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     /* Se der algum problema na imagem de background, verificar essa linha - Trocar "cover" por "contain" */
     align-items: center;
     text-align: center;
