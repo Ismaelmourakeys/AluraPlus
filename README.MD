@@ -14,9 +14,9 @@ Landing page desenvolvida para o **Combo+**, plano que combina o **Alura+** e o 
 
 ## 🎨 Features
 
-- Hero section com imagem de fundo e call-to-action de assinatura
 - Seções secundárias alternadas (imagem + descrição) apresentando os benefícios
 - Lista de dispositivos compatíveis (TV, Computador, Celular e Tablet)
+- Trabalhando com método BEM (Block Element Modifier)
 - Footer com links institucionais e informações legais
 - Hover animado nos botões e no logo do rodapé
 - Paleta de cores com variáveis CSS reutilizáveis
